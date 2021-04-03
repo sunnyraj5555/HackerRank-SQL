@@ -1,4 +1,4 @@
-# HackerRank-SQL
+# Theory
 - Using UPPERCASE for the SQL keywords helps make the script more understandable.
 
 Q. Why is SQL written in uppercase?
